@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, somos a STARTEC</h1>
+<h1 align="center">Olá mundo👋, somos a StarTec Development</h1>
 <h3 align="center">Especializada em Desenvolvimento FullStack</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agstartec&label=Profile%20views&color=0e75b6&style=flat" alt="agstartec" /> </p>
