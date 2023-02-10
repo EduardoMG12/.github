@@ -7,7 +7,7 @@
 
 - 📄 Conheça as tecnologias utilizadas na empresa **JavaScript, SASS, React.js, Next.js, NodeJs, Electron.js, Express.js, Nest.js, TypeScript, Programador C#, .NETFramework e .NETCore, Java, SQL, NoSQL**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se conosco:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
 <a href="https://fb.com/face" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="face" height="30" width="40" /></a>
