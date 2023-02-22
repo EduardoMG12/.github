@@ -9,10 +9,9 @@
 
 <h3 align="left">Conecte-se conosco:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
-<a href="https://fb.com/face" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="face" height="30" width="40" /></a>
-<a href="https://instagram.com/isnta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isnta" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/JtZG3fzg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JtZG3fzg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/agstartec/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
+<a href="https://www.facebook.com/agstartec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="face" height="30" width="40" /></a>
+<a href="https://discord.gg/tqm6mt4qyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/JtZG3fzg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tecnologias e Ferramentas:</h3>
